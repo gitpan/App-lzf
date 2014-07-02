@@ -1,4 +1,4 @@
-#!/usr/bin/env perl
+#!perl
 
 use 5.010001;
 use strict;
@@ -6,7 +6,7 @@ use warnings;
 
 use Getopt::Long;
 
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 my %Opts;
 
@@ -128,7 +128,7 @@ lzf - Compress/decompress using LZF algorithm
 
 =head1 VERSION
 
-version 0.01
+This document describes version 0.02 of lzf (from Perl distribution App-lzf), released on 2014-07-02.
 
 =head1 SYNOPSIS
 

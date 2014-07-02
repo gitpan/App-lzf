@@ -2,7 +2,8 @@ NAME
     App::lzf - Compress/decompress using the LZF algorithm
 
 VERSION
-    version 0.01
+    This document describes version 0.02 of App::lzf (from Perl distribution
+    App-lzf), released on 2014-07-02.
 
 HOMEPAGE
     Please visit the project's homepage at

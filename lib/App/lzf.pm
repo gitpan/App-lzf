@@ -1,6 +1,6 @@
 package App::lzf;
 
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 1;
 # ABSTRACT: Compress/decompress using the LZF algorithm
@@ -17,7 +17,7 @@ App::lzf - Compress/decompress using the LZF algorithm
 
 =head1 VERSION
 
-version 0.01
+This document describes version 0.02 of App::lzf (from Perl distribution App-lzf), released on 2014-07-02.
 
 =head1 HOMEPAGE
 
